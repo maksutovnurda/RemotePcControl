@@ -1,0 +1,13 @@
+pip install aiogram
+pip install configparser
+pip install asyncio
+pip install mss
+pip install urllib
+pip install platform
+pip install subprocess
+pip install webbrowser
+pip install keyboard
+pip install win32clipboard
+pip install pyautogui
+pip install psutil
+pip install pywin32
